@@ -1,0 +1,27 @@
+# Core dependencies
+streamlit==1.24.0
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.15.0
+
+# Database
+sqlalchemy==2.0.19
+
+# System monitoring
+psutil==5.9.5
+
+# Machine Learning
+scikit-learn==1.3.0
+torch==2.0.1
+torchvision==0.15.2
+
+# NLP (for sentiment analysis in journaling)
+nltk==3.8.1
+textblob==0.17.1
+
+# Utils
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Testing
+pytest==7.3.2

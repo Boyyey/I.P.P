@@ -1,4 +1,4 @@
-# Intelligent Performance Predictor
+# Intelligent-Performance-Predictor (I.P.P)
 
 An AI-powered system that monitors and predicts personal performance and burnout risk using non-invasive behavioral data.
 
